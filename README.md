@@ -10,4 +10,4 @@ Proje Bağlantısı
 
 Projenin orijinal GitHub deposuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-Arnavutköy Belediyesi – Stajyer Otomasyonu
+[Arnavutköy Belediyesi – Stajyer Otomasyonu](https://github.com/Arnavutkoy-Belediyesi/intr-web-intern-otomation)
